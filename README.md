@@ -4,13 +4,11 @@
 
 - 1、订阅通知
 
-`
-
+```
 //订阅通知
 [[NSNotificationCenter defaultCenter]addObserver:self selector:@selector(changeThemeNotification:) name:THEME_POST object:nil];
 
-`
-
+```
 
 - 2、实现订阅方法
 
