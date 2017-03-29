@@ -2,7 +2,7 @@
 //  UIImage+Theme.m
 //  Theme
 //
-//  Created by 法大大 on 2017/3/29.
+//  Created by liuyg on 2017/3/29.
 //  Copyright © 2017年 liuyg. All rights reserved.
 //
 
